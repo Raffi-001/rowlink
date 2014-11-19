@@ -1,0 +1,15 @@
+{
+
+  "name": "rowlink",
+
+  "description": "make table row or a whole block of code clickable and linked to one of its child element's href value",
+
+  "author": "Raffi Hovhannesian <hovhannesian@gmail.com>",
+
+  "dependencies": {
+
+    "optimist": ">= 1.7"
+
+  },
+
+}
