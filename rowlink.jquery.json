@@ -1,0 +1,37 @@
+{
+
+    "name": "rowlink",
+
+    "version": "0.1",
+
+    "title": "rowLink",
+
+    "author": {
+
+        "name": "Raffi Hovhannesian",
+
+        "email": "hovhannesian@gmail.com",
+
+        "homepage": "http://www.hovhannesian.com"
+
+    },
+
+    "licenses": [
+
+        {
+
+            "type": "MIT",
+
+            "url": "http://en.wikipedia.org/wiki/MIT_License"
+
+        }
+
+    ],
+
+    "dependencies": {
+
+        "jquery": ">=1.7"
+
+    }
+
+}
